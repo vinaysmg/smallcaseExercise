@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="linseners.TestNGListener"></listener>
+    </listeners>
+    <test parallel="methods" thread-count="2" verbose="2" preserve-order="true" name="E:/Vinay/materials/API testing/Tutorial/Testing minibytes/SmallCaseExercise/src/test/java/AutomatedTests.java">
+        <classes>
+            <class name="AutomatedTests"></class>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-07T15:19:28 IST" name="All Test Suite" finished-at="2022-12-07T15:20:23 IST" duration-ms="55149">
+    <groups>
+    </groups>
+    <test started-at="2022-12-07T15:19:28 IST" name="E:/Vinay/materials/API testing/Tutorial/Testing minibytes/SmallCaseExercise/src/test/java/AutomatedTests.java" finished-at="2022-12-07T15:20:23 IST" duration-ms="55149">
+      <class name="AutomatedTests">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:AutomatedTests@4d9e68d0]" started-at="2022-12-07T15:19:28 IST" name="setUp" finished-at="2022-12-07T15:19:34 IST" duration-ms="5589" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:AutomatedTests@4d9e68d0]" started-at="2022-12-07T15:19:28 IST" name="setUp" finished-at="2022-12-07T15:19:36 IST" duration-ms="8155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="scenario2Test(java.lang.String)[pri:0, instance:AutomatedTests@4d9e68d0]" started-at="2022-12-07T15:19:34 IST" name="scenario2Test" data-provider="searchkey" finished-at="2022-12-07T15:20:22 IST" duration-ms="48305" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vu tv 80cm]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario2Test -->
+        <test-method signature="scenario1Test(java.lang.String)[pri:0, instance:AutomatedTests@4d9e68d0]" started-at="2022-12-07T15:19:36 IST" name="scenario1Test" data-provider="searchkey" finished-at="2022-12-07T15:19:52 IST" duration-ms="15106" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vu tv 80cm]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario1Test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:AutomatedTests@4d9e68d0]" started-at="2022-12-07T15:19:52 IST" name="tearDown" finished-at="2022-12-07T15:19:53 IST" duration-ms="944" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:AutomatedTests@4d9e68d0]" started-at="2022-12-07T15:20:22 IST" name="tearDown" finished-at="2022-12-07T15:20:23 IST" duration-ms="921" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- AutomatedTests -->
+    </test> <!-- E:/Vinay/materials/API testing/Tutorial/Testing minibytes/SmallCaseExercise/src/test/java/AutomatedTests.java -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
